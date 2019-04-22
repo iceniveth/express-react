@@ -1,0 +1,10 @@
+{
+  "watch": [
+    "server.js",
+    "views/",
+    "models/",
+    "routes/",
+    "middlewares",
+    "helpers"
+  ]
+}
